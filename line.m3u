@@ -217,4 +217,199 @@ https://live-evg25.tv360.bitel.com.pe:443/bitel/auno/chunks.m3u8
 https://live-evg25.tv360.bitel.com.pe:443/bitel/imperialtv/chunks.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/BRWhaSw.png" group-title="",Aura tv
 https://live-evg25.tv360.bitel.com.pe:443/bitel/auratv/chunks.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/aIFfw1y.png" group-titl
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/aIFfw1y.png" group-title="",Solar tv
+https://live-evg25.tv360.bitel.com.pe:443/bitel/solartv/chunks.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/pW4X12U.png" group-title="",Andino tv
+https://live-evg25.tv360.bitel.com.pe:443/bitel/andinotv/chunks.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/EzKGuSc.png" group-title="",Yuri visión tv
+https://live-evg25.tv360.bitel.com.pe:443/bitel/yuritv/chunks.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/9B3ySVR.png" group-title="",Arpegio tv
+https://live-evg25.tv360.bitel.com.pe:443/bitel/arpegiotv/chunks.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/i9Y4j2W.png" group-title="",Master tv
+https://live-evg25.tv360.bitel.com.pe:443/bitel/mastertv/chunks.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/yCXFWXa.jpg" group-title="",CNC TV
+https://live-evg25.tv360.bitel.com.pe:443/bitel/cnctv/chunks.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/fmCCToG.png" group-title="",U tv
+https://live-evg25.tv360.bitel.com.pe:443/bitel/utv/chunks.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/pXicGD5.png" group-title="",Mega tv pasco
+https://live-evg25.tv360.bitel.com.pe:443/bitel/megatv/chunks.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/fiYabfE.png" group-title="",Conecta 2 tv
+https://live-evg25.tv360.bitel.com.pe:443/bitel/conectado2/bitel/conectado2_ori_source/chunks.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/6FwYkGX.png" group-title="",N canal
+https://live-evg25.tv360.bitel.com.pe:443/bitel/ncanal/chunks.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/jSIoCS3.jpg" group-title="",Planea tv
+https://play.agenciastreaming.com:8081/planeatv/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://liketv.pe/wp-content/uploads/2025/03/like.jpg" group-title="",Like tv
+https://live-evg25.tv360.bitel.com.pe:443/bitel/liketv/chunks.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/VSzBjDz.png" group-title="",Cositel Puno
+https://live-evg25.tv360.bitel.com.pe:443/bitel/cositeljuliaca/chunks.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/ctyPT75.png" group-title="",Tv norte
+https://live-evg25.tv360.bitel.com.pe:443/bitel/tvnorte/bitel/tvnorte_ori_source/chunks.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/WP4ullU.png" group-title="",TV ALTURA
+https://play.agenciastreaming.com:8081/tvalturalimalive/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/FTfTJE0.png" group-title="",MILENIUM TV
+https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/BKv8zIk.png" group-title="",CANAL EDUCA SM
+https://tv.perustream.com:3056/stream/play.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/BnQ1k6G_d.png" group-title="",NOVA STAR TV
+https://7.innovatestream.pe:19360/radionovastar/radionovastar.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/GE20y5N.png" group-title="",NOVA TV
+https://live-evg25.tv360.bitel.com.pe:443/bitel/novatv/chunks.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/zl8acUR.png" group-title="",TOP TV
+https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/5O8x9hQ.png" group-title="",TRIVU TV
+https://www.chasquirouter.com/salida/sd/trivu.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/Wj2TN4N.png" group-title="",SEÑAL PERU
+https://livestream.perucast.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/5L8c3bI_d.png" group-title="",PLANETA TV
+https://live.obslivestream.com/planetatv/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/bgpCuUa_d.png" group-title="",TV PERUANISIMA
+https://k20.usastreams.com:8081/tvperuanisima/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/01kTXk2_d.png" group-title="",NORSELVA TV
+https://live.obslivestream.com/norselvatv/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/7UW5AG3_d.png" group-title="",EXTREMO TV PUNO
+https://live-evg25.tv360.bitel.com.pe/bitel/extremotv/chunks.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/sFb4Au6_d.png" group-title="",UNITEL TV HUANCAYO
+https://live-evg25.tv360.bitel.com.pe/bitel/uniteltv/chunks.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/j2S1pCX_d.png" group-title="",QOSQO TIME CUSCO
+https://live-evg25.tv360.bitel.com.pe/bitel/qosqo/chunks.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/giWFunk_d.png" group-title="",ATLANTIS TV AYACUCHO
+https://live-evg25.tv360.bitel.com.pe/bitel/atlantistv/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DrnnyVT.jpg" group-title="",CABLE | UNIVERSAL TV
+http://161.132.9.163:80/Panel-Universal-Channel-HD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tKuGOYa.jpg" group-title="",CABLE | STUDIO UNIVERSAL
+http://161.132.9.163:80/Panel_Studio-Universal-HD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hHd3J9h.png" group-title="",CABLE | STAR CHANNEL
+http://161.132.9.163:80/Panel-Star-Channel-HD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0OpKA6g.jpg" group-title="",CABLE | SONY
+http://161.132.9.163:80/Panel-Sony-HD/tracks-a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PhGmc9h.jpg" group-title="",CABLE | CINE CANAL
+http://161.132.9.163:80/Panel-Cinecanal-HD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tGc5z3B.jpg" group-title="",CABLE | FX
+http://161.132.9.163:80/Panel-Fx-HD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="",CABLE | GOLDEN
+http://161.132.9.163:80/Panel_Golden_HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="",CABLE | GOLDEN EDGE
+http://161.132.9.163:80/Golden_Edge_IPTV/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nq8OQer_d.png" group-title="",CABLE | AXN
+http://161.132.9.163:80/Panel-Axn-HD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YJDUU7E_d.png" group-title="",CABLE | PARAMOUNT CHANEL
+http://161.132.9.163:80/Paramount_IPTV/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/hVLNmcs_d.png" group-title="",CABLE | A&E
+http://161.132.9.163:80/Panel_A_E/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/dUqijPv_d.png" group-title="",CABLE | D PELICULA
+http://161.132.9.163:80/Panel_Dpelicula_HD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/ML4SrL4_d.png" group-title="",CABLE | DHE
+http://161.132.9.163:80/Panel_DHE/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/6sllaSL_d.png" group-title="",CABLE | GOLDEN PREMIER
+http://161.132.9.163:80/Panel_Golden_Premiere/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/7fN4Eys_d.png" group-title="",CABLE | CLOVER CHANEL
+http://161.132.9.163:80/Panel_Clover/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/YuDbuV7_d.png" group-title="Infantil",CABLE | SONY MOVIES
+http://161.132.9.163:80/Panel_Sony-Movies-HD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/Usjp53C_d.png" group-title="",CABLE | WEST
+http://161.132.9.163:80/Panel_West_HD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://img.teleclub.xyz/nick.png" group-title="",CABLE | NICK
+http://161.132.9.163:80/Panel-Nicklodeon-HD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://img.teleclub.xyz/disneychannel.png" group-title="",CABLE | DISNEY CHANEL
+http://161.132.9.163:80/Diney_Channel_IPTV/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://img.teleclub.xyz/discoverykids.png" group-title="",CABLE | DISCOVERY KISD
+http://161.132.9.163:80/Panel-Discovery-Kids-HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Gf1k6qO_d.png" group-title="",CABLE | NICK JR
+http://161.132.9.163:80/Panel-Nick-Jr/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://img.teleclub.xyz/disneyjr.png" group-title="",CABLE | DISNEY JR
+http://161.132.9.163:80/Panel-Disney-Jr/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/prNI0fi_d.png" group-title="",CABLE | PLIN PLIN TV
+http://161.132.9.163:80/Panel_PLIN_PLIN/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/v69tGup_d.png" group-title="Infantil",CABLE | FUNBOX TV
+http://161.132.9.163:80/Panel_Funbox/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/czsZa6E_d.png" group-title="Infantil",CABLE | CLAN TV 
+http://161.132.9.163:80/Panel_Clan/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://img.teleclub.xyz/telemundo.png" group-title="",CABLE | TELEMUNDO
+http://161.132.9.163:80/Panel_Telemundo-HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.teleclub.xyz/tlnovelas.png" group-title="",CABLE | TELENOVELAS
+http://161.132.9.163:80/Panel_TlnovelasHD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.teleclub.xyz/lasestrellas.png" group-title="",CABLE | LAS ESTRELLAS
+http://161.132.9.163:80/Panel_Estellas_HD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://img.teleclub.xyz/pasiones.png" group-title="",CABLE | PASIONES
+http://161.132.9.163:80/Pasiones_HD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/espnn.png?raw=true" group-title="",CABLE | ESPN 1
+http://161.132.9.163:80/Panel_ESPN_HD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/espn2n.png?raw=true" group-title="",CABLE | ESPN 2
+http://161.132.9.163:80/Panel_ESPN2_HD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/espn3n.png?raw=true" group-title="",CABLE | ESPN 3
+http://161.132.9.163:80/Panel_ESPN3_HD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kL0Ea7N_d.png" group-title="",CABLE | ESPN 4
+http://161.132.9.163:80/Panel_ESPN4_HD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eVaEcFb_d.png" group-title="",CABLE | ESPN 5
+http://161.132.9.163:80/Panel_ESPN5_HD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2UFdKUj_d.png" group-title="",CABLE | ESPN 6
+http://161.132.9.163:80/Panel_ESPN6_HD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JnuykKI_d.png" group-title="",CABLE | ESPN 7
+http://161.132.9.163:80/Panel_ESPN7_HD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3CMEayb_d.png" group-title="",CABLE | TITAN CHANEL
+http://161.132.9.163:80/Panel_Titan_Channel/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gXbW7IQ_d.png" group-title="",CABLE | TELEREBELDE
+http://161.132.9.163:80/Panel_Telerebelde/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pTPpWJi.jpg" group-title="",CABLE | Animal Planet
+http://161.132.9.163:80/Panel_Animal-Planet-HD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/did.png?raw=true" group-title="",CABLE | Disccovery ID
+http://161.132.9.163:80/Panle_Discovery_id/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XHF3LKK.jpg" group-title="",CABLE | Discovery Channel
+http://161.132.9.163:80/Panel-Discovery-Channel_HD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/OO9PaGb.jpg" group-title="",CABLE | Discovery H&H
+http://161.132.9.163:80/Panel_H_y_H/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ypR4tvy.jpg" group-title="",CABLE | H2
+http://161.132.9.163:80/Panel_History2_HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/J897iGL.jpg" group-title="",CABLE | History
+http://161.132.9.163:80/Panel_History_HD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dq6jLKm.jpg" group-title="",CABLE | National Geographic
+http://161.132.9.163:80/Panel_Nat-Geo-HD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uC7ZjsU_d.png" group-title="",CABLE | DISCOVERY SCIENSE
+http://161.132.9.163:80/Panle_Discovery_Sciense/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4FFpAog_d.png" group-title="",CABLE | DISCOVERY TURBO 
+http://161.132.9.163:80/Panel_Discovery_Turbo/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/9GNsl1M_d.png" group-title="",CABLE | DISCOVERY THEATER
+http://161.132.9.163:80/Discovery_Theater_IPTV/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/bu1gdJt.png" group-title="Radios peru",Radio top fm jaen
+https://stream.zeno.fm/sd1u56uesutvv
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/D52ISTH.png" group-title="Radios peru",Radio jaen mix
+https://stream.zeno.fm/jzvwigumub1tv
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/LWPfHje.png" group-title="Radios peru",Radio oxigeno
+https://mdstrm.com/audio/5fab0687bcd6c2389ee9480c/icecast.audio
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/OOa9ru5.png" group-title="Radios peru",Radio la inolvidable
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_LI_SC?csegid=30006&dist=30006
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/0a1d8UI.png" group-title="Radios peru",Radio felicidad
+https://mdstrm.com/audio/5fad731fcf097a068af3c8f7/icecast.audio
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/jBEzuzl.png" group-title="Radios peru",Radio la zona
+https://mdstrm.com/audio/5fada54116646e098d97e6a5/icecast.audio
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/2vo6UTH.png" group-title="Radios peru",Radio la nube
+https://mdstrm.com/audio/6598b70f86344b02b58ce836/icecast.audio
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/qtAosYm.png" group-title="Radios peru",Radio rpp
+https://mdstrm.com/audio/5fab3416b5f9ef165cfab6e9/icecast.audio
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/O7xKAN8.png" group-title="Radios peru",Radio exitosa
+https://neptuno-2-audio.mediaserver.digital/79525baf-b0f5-4013-a8bd-3c5c293c6561
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/bBPaMtX.png" group-title="Radios peru",Radio onda cero
+https://mdstrm.com/audio/6598b65ab398c90871aff8cc/icecast.audio
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/MHNPQ7V.png" group-title="Radios peru",Radio Nueva Q
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_NQAAC.aac
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/Vvlt1oF.png" group-title="Radios peru",Radio mágica
+https://playerservices.streamtheworld.com/api/livestream-redirect/MAG_AAC.aac
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/FeU3KLv.png" group-title="Radios peru",Radio la kalle
+https://lakalle.egostreaming.pe/radio/a7b9c3e4567f8d0123456789/
+#EXTINF:-1 tvg-id="62" tvg-logo="https://i.imgur.com/3gGNYwN.png" group-title="Radios peru",Radio moda
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_MODAAC.aac
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/qUOiR70.png" group-title="Radios peru",Radio planeta
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_PLAAAC.aac
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/nIu1ZDb.png" group-title="Radios peru",Radio melodía
+https://stream.radiomelodia.com.pe:8010/radio.mp3
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/doKPqWs.png" group-title="Radios peru",Radio corazón
+https://mdstrm.com/audio/5fada514fc16c006bd63370f/icecast.audio
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/Nurz77y.png" group-title="Radios peru",Radio la megamix
+https://mdstrm.com/audio/5fada56fe4e09508207a7951/icecast.audio
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/BzGBIx0.png" group-title="Radios peru",Radio 1160
+https://mdstrm.com/audio/6598b6e1261d9e088a6de859/icecast.audio
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/DhL72g9.png" group-title="Radios peru",Radio ritmo romántica
+https://14103.live.streamtheworld.com/CRP_RIT_SC?dist=20001
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/m5yoRgH.png" group-title="Radios peru",Radio studio 92
+https://mdstrm.com/audio/5fada553978fe1080e3ac5ea/icecast.audio
