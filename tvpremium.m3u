@@ -5,7 +5,7 @@ http://161.132.9.163:80/Panel_Studio-Universal-HD/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="202dtv.pe" tvg-logo="https://i.imgur.com/hHd3J9h.png" group-title="",CABLE | STAR CHANNEL
 http://161.132.9.163:80/Panel-Star-Channel-HD/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="208dtv.cl" tvg-logo="https://i.imgur.com/0OpKA6g.jpg" group-title="",CABLE | SONY
-http://161.132.9.163:80/Panel-Sony-HD/tracks-a1/mono.ts.m3u8
+http://161.132.9.163:80/Panel-Sony-HD/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PhGmc9h.jpg" group-title="",CABLE | CINE CANAL
 http://161.132.9.163:80/Panel-Cinecanal-HD/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="217dtv.cl" tvg-logo="https://i.imgur.com/tGc5z3B.jpg" group-title="",CABLE | FX
