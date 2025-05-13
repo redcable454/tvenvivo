@@ -28,7 +28,7 @@ http://161.132.9.163:80/Panel_DHE/tracks-v1a1/mono.ts.m3u8
 http://161.132.9.163:80/Panel_Golden_Premiere/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/7fN4Eys_d.png" group-title="",CABLE | CLOVER CHANEL
 http://161.132.9.163:80/Panel_Clover/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/YuDbuV7_d.png" group-title="Infantil",CABLE | SONY MOVIES
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/YuDbuV7_d.png" group-title="",CABLE | SONY MOVIES
 http://161.132.9.163:80/Panel_Sony-Movies-HD/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/Usjp53C_d.png" group-title="",CABLE | WEST
 http://161.132.9.163:80/Panel_West_HD/tracks-v1a1/mono.ts.m3u8
@@ -44,9 +44,9 @@ http://161.132.9.163:80/Panel-Nick-Jr/tracks-v1a1/mono.ts.m3u8
 http://161.132.9.163:80/Panel-Disney-Jr/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/prNI0fi_d.png" group-title="",CABLE | PLIN PLIN TV
 http://161.132.9.163:80/Panel_PLIN_PLIN/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/v69tGup_d.png" group-title="Infantil",CABLE | FUNBOX TV
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/v69tGup_d.png" group-title="",CABLE | FUNBOX TV
 http://161.132.9.163:80/Panel_Funbox/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/czsZa6E_d.png" group-title="Infantil",CABLE | CLAN TV 
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/czsZa6E_d.png" group-title="",CABLE | CLAN TV 
 http://161.132.9.163:80/Panel_Clan/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://img.teleclub.xyz/telemundo.png" group-title="",CABLE | TELEMUNDO
 http://161.132.9.163:80/Panel_Telemundo-HD/index.m3u8
@@ -120,7 +120,7 @@ http://161.132.9.163:80/Panel_24H/tracks-v1a1/mono.ts.m3u8
 http://161.132.9.163:80/France_IPTV/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/ry7kkP9_d.png" group-title="",CABLE | RT SPAÑOL
 http://161.132.9.163:80/Rusia_Today_IPTV/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/gmJyOPR_d.png" group-title="Infantil",CABLE | REWIND
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/gmJyOPR_d.png" group-title="",CABLE | REWIND
 http://161.132.9.163:80/Panel_Rewind/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/MXl3TlU_d.png" group-title="",CABLE | ENLACE 
 http://161.132.9.163:80/Enlace_IPTV/tracks-v1a1/mono.ts.m3u8
