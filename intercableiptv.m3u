@@ -1,0 +1,136 @@
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DrnnyVT.jpg" group-title="",CABLE | UNIVERSAL TV
+http://161.132.9.163:80/Panel-Universal-Channel-HD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="508dtv.cl" tvg-logo="https://i.imgur.com/tKuGOYa.jpg" group-title="",CABLE | STUDIO UNIVERSAL
+http://161.132.9.163:80/Panel_Studio-Universal-HD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="202dtv.pe" tvg-logo="https://i.imgur.com/hHd3J9h.png" group-title="",CABLE | STAR CHANNEL
+http://161.132.9.163:80/Panel-Star-Channel-HD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="208dtv.cl" tvg-logo="https://i.imgur.com/0OpKA6g.jpg" group-title="",CABLE | SONY
+http://161.132.9.163:80/Panel-Sony-HD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PhGmc9h.jpg" group-title="",CABLE | CINE CANAL
+http://161.132.9.163:80/Panel-Cinecanal-HD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="217dtv.cl" tvg-logo="https://i.imgur.com/tGc5z3B.jpg" group-title="",CABLE | FX
+http://161.132.9.163:80/Panel-Fx-HD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="503dtv.cl" tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="",CABLE | GOLDEN
+http://161.132.9.163:80/Panel_Golden_HD/index.m3u8
+#EXTINF:-1 tvg-id="517dtv.cl" tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="",CABLE | GOLDEN EDGE
+http://161.132.9.163:80/Golden_Edge_IPTV/index.m3u8
+#EXTINF:-1 tvg-id="209dtv.co" tvg-logo="https://i.imgur.com/nq8OQer_d.png" group-title="",CABLE | AXN
+http://161.132.9.163:80/Panel-Axn-HD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="510dtv.cl" tvg-logo="https://i.imgur.com/YJDUU7E_d.png" group-title="",CABLE | PARAMOUNT CHANEL
+http://161.132.9.163:80/Paramount_IPTV/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="207dtv" tvg-logo="https://i.imgur.com/hVLNmcs_d.png" group-title="",CABLE | A&E
+http://161.132.9.163:80/Panel_A_E/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/dUqijPv_d.png" group-title="",CABLE | D PELICULA
+http://161.132.9.163:80/Panel_Dpelicula_HD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="1513dtv.cl" tvg-logo="https://i.imgur.com/ML4SrL4_d.png" group-title="",CABLE | DHE
+http://161.132.9.163:80/Panel_DHE/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/6sllaSL_d.png" group-title="",CABLE | GOLDEN PREMIER
+http://161.132.9.163:80/Panel_Golden_Premiere/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="908mvstr.cl" tvg-logo="https://i.imgur.com/7fN4Eys_d.png" group-title="",CABLE | CLOVER CHANEL
+http://161.132.9.163:80/Panel_Clover/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="1506dtv.cl" tvg-logo="https://i.imgur.com/YuDbuV7_d.png" group-title="",CABLE | SONY MOVIES
+http://161.132.9.163:80/Panel_Sony-Movies-HD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/Usjp53C_d.png" group-title="",CABLE | WEST
+http://161.132.9.163:80/Panel_West_HD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="308dtv.cl" tvg-logo="http://img.teleclub.xyz/nick.png" group-title="",CABLE | NICK
+http://161.132.9.163:80/Panel-Nicklodeon-HD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="314dtv.co" tvg-logo="http://img.teleclub.xyz/disneychannel.png" group-title="",CABLE | DISNEY CHANEL
+http://161.132.9.163:80/Diney_Channel_IPTV/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="330dtv.co" tvg-logo="http://img.teleclub.xyz/discoverykids.png" group-title="",CABLE | DISCOVERY KISD
+http://161.132.9.163:80/Panel-Discovery-Kids-HD/index.m3u8
+#EXTINF:-1 tvg-id="309dtv.cl" tvg-logo="https://i.imgur.com/Gf1k6qO_d.png" group-title="",CABLE | NICK JR
+http://161.132.9.163:80/Panel-Nick-Jr/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="315dtv.cl" tvg-logo="http://img.teleclub.xyz/disneyjr.png" group-title="",CABLE | DISNEY JR
+http://161.132.9.163:80/Panel-Disney-Jr/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/prNI0fi_d.png" group-title="",CABLE | PLIN PLIN TV
+http://161.132.9.163:80/Panel_PLIN_PLIN/index.m3u8
+#EXTINF:-1 tvg-id="562" tvg-logo="https://i.imgur.com/v69tGup_d.png" group-title="",CABLE | FUNBOX TV
+http://161.132.9.163:80/Panel_Funbox/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/czsZa6E_d.png" group-title="",CABLE | CLAN TV 
+http://161.132.9.163:80/Panel_Clan/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="231dtv.cl" tvg-logo="http://img.teleclub.xyz/telemundo.png" group-title="",CABLE | TELEMUNDO
+http://161.132.9.163:80/Panel_Telemundo-HD/index.m3u8
+#EXTINF:-1 tvg-id="227dtv.cl" tvg-logo="https://img.teleclub.xyz/tlnovelas.png" group-title="",CABLE | TELENOVELAS
+http://161.132.9.163:80/Panel_TlnovelasHD/index.m3u8
+#EXTINF:-1 tvg-id="226dtv.cl" tvg-logo="https://img.teleclub.xyz/lasestrellas.png" group-title="",CABLE | LAS ESTRELLAS
+http://161.132.9.163:80/Panel_Estellas_HD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="225dtv.cl" tvg-logo="http://img.teleclub.xyz/pasiones.png" group-title="",CABLE | PASIONES
+http://161.132.9.163:80/Pasiones_HD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="621dtv.pe" tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/espnn.png?raw=true" group-title="",CABLE | ESPN 1
+http://161.132.9.163:80/Panel_ESPN_HD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="622dtv.pe" tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/espn2n.png?raw=true" group-title="",CABLE | ESPN 2
+http://161.132.9.163:80/Panel_ESPN2_HD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/espn3n.png?raw=true" group-title="",CABLE | ESPN 3
+http://161.132.9.163:80/Panel_ESPN3_HD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kL0Ea7N_d.png" group-title="",CABLE | ESPN 4
+http://161.132.9.163:80/Panel_ESPN4_HD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eVaEcFb_d.png" group-title="",CABLE | ESPN 5
+http://161.132.9.163:80/Panel_ESPN5_HD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2UFdKUj_d.png" group-title="",CABLE | ESPN 6
+http://161.132.9.163:80/Panel_ESPN6_HD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JnuykKI_d.png" group-title="",CABLE | ESPN 7
+http://161.132.9.163:80/Panel_ESPN7_HD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3CMEayb_d.png" group-title="",CABLE | TITAN CHANEL
+http://161.132.9.163:80/Panel_Titan_Channel/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gXbW7IQ_d.png" group-title="",CABLE | TELEREBELDE
+http://161.132.9.163:80/Panel_Telerebelde/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pTPpWJi.jpg" group-title="",CABLE | Animal Planet
+http://161.132.9.163:80/Panel_Animal-Planet-HD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/did.png?raw=true" group-title="",CABLE | Disccovery ID
+http://161.132.9.163:80/Panle_Discovery_id/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="732dtv.cl" tvg-logo="https://i.imgur.com/XHF3LKK.jpg" group-title="",CABLE | Discovery Channel
+http://161.132.9.163:80/Panel-Discovery-Channel_HD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/OO9PaGb.jpg" group-title="",CABLE | Discovery H&H
+http://161.132.9.163:80/Panel_H_y_H/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="744dtv.cl" tvg-logo="https://i.imgur.com/ypR4tvy.jpg" group-title="",CABLE | H2
+http://161.132.9.163:80/Panel_History2_HD/index.m3u8
+#EXTINF:-1 tvg-id="1742dtv.cl" tvg-logo="https://i.imgur.com/J897iGL.jpg" group-title="",CABLE | History
+http://161.132.9.163:80/Panel_History_HD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dq6jLKm.jpg" group-title="",CABLE | National Geographic
+http://161.132.9.163:80/Panel_Nat-Geo-HD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uC7ZjsU_d.png" group-title="",CABLE | DISCOVERY SCIENSE
+http://161.132.9.163:80/Panle_Discovery_Sciense/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="736dtv.cl" tvg-logo="https://i.imgur.com/4FFpAog_d.png" group-title="",CABLE | DISCOVERY TURBO 
+http://161.132.9.163:80/Panel_Discovery_Turbo/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="1731dtv.cl" tvg-logo="https://i.imgur.com/9GNsl1M_d.png" group-title="",CABLE | DISCOVERY THEATER
+http://161.132.9.163:80/Discovery_Theater_IPTV/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/noxRxXs_d.png" group-title="",CABLE | HGTV
+http://161.132.9.163:80/Panel_HGTV/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="215dtv.cl" tvg-logo="https://i.imgur.com/rdcnvM2_d.png" group-title="",CABLE | COMEDI CENTRAL
+http://161.132.9.163:80/Panel_Comedy_Central/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="222dtv.cl" tvg-logo="https://i.imgur.com/CTC2tda_d.png" group-title="",CABLE | CANAL E
+http://161.132.9.163:80/Panel_Entertairment/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="228dtv.pe" tvg-logo="https://i.imgur.com/Z7pYEDG_d.png" group-title="",CABLE | LIFETIME
+http://161.132.9.163:80/LPanel_Lifetime/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="233dtv.cl" tvg-logo="https://i.imgur.com/HNPkFxS_d.png" group-title="",CABLE | FOOD NETWORK 
+http://161.132.9.163:80/Panel_FoodNetwork/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/JeqkSiv_d.png" group-title="",CABLE | VEPLUS TV
+http://161.132.9.163:80/Panel_VePlus/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/5C5kavD_d.png" group-title="",CABLE | STAR TV
+http://161.132.9.163:80/Panel_StartTV/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="527" tvg-logo="https://i.imgur.com/dfjQtSE_d.png" group-title="",CABLE | CGTN SPAÑOL
+http://161.132.9.163:80/Panel_CGTN/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/1Zm8vuJ_d.png" group-title="",CABLE | DW SPAÑOL
+http://161.132.9.163:80/Panel_DW/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="telesur.ar" tvg-logo="https://i.imgur.com/O90XSe4_d.png" group-title="",CABLE | TELESUR
+http://161.132.9.163:80/Panel_Telesur/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/UbIqwjl_d.png" group-title="",CABLE | RTVE 
+http://161.132.9.163:80/Panel_24H/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="france-24-espanol.ar" tvg-logo="https://i.imgur.com/cZ3bS5O_d.pnghttps://i.imgur.com/cZ3bS5O_d.png" group-title="",CABLE | FRANCE 24
+http://161.132.9.163:80/France_IPTV/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="560" tvg-logo="https://i.imgur.com/ry7kkP9_d.png" group-title="",CABLE | RT SPAÑOL
+http://161.132.9.163:80/Rusia_Today_IPTV/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="539" tvg-logo="https://i.imgur.com/gmJyOPR_d.png" group-title="",CABLE | REWIND
+http://161.132.9.163:80/Panel_Rewind/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="352dtv.cl" tvg-logo="https://i.imgur.com/MXl3TlU_d.png" group-title="",CABLE | ENLACE 
+http://161.132.9.163:80/Enlace_IPTV/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fMSrlg3_d.png" group-title="",CABLE | EWTN
+http://161.132.9.163:80/Panel_EWTN/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="760dtv.cl" tvg-logo="https://i.imgur.com/E8CUcEf_d.png" group-title="",CABLE | UNIVISION
+http://161.132.9.163:80/Univision_iptv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="892mvstr.cl" tvg-logo="https://i.imgur.com/hij8Imi_d.png" group-title="",CABLE | CANAL D
+http://161.132.9.163:80/Panel_Kanal_De_Drama_HD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/GrUYSgW_d.png" group-title="",CABLE | TELEHIT
+http://161.132.9.163:80/Telehit_IPTV/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/YkyNFRH_d.png" group-title="",CABLE | AGROTENDENCIA
+http://161.132.9.163:80/Panel_Agrotendencia/tracks-v1a1/mono.ts.m3u8
