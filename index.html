@@ -1,0 +1,55 @@
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TV en Vivo</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div id="app-container">
+        <header>
+            <h1>TV en Vivo</h1>
+        </header>
+        <main id="main-content">
+            <div id="video-container">
+                <div id="video-player-wrapper">
+                    <video id="video-player" controls autoplay muted playsinline>
+                        <!-- El source se pondrá dinámicamente -->
+                    </video>
+                    <div id="video-placeholder">
+                        <img src="tv-static.png" alt="TV Static">
+                        <h2>Selecciona un canal para comenzar a ver</h2>
+                    </div>
+                </div>
+                <div id="channel-info">
+                    <div class="channel-info-left">
+                        <img id="current-channel-logo" src="" alt="">
+                        <h3 id="current-channel-name"></h3>
+                    </div>
+                    <div id="channel-controls">
+                        <button id="channel-down-btn" title="Canal anterior">-</button>
+                        <button id="channel-up-btn" title="Canal siguiente">+</button>
+                    </div>
+                </div>
+            </div>
+            <nav id="channel-list-container">
+                <h2>Canales</h2>
+                <ul id="channel-list">
+                    <!-- Los canales se generarán aquí -->
+                </ul>
+            </nav>
+            <aside id="program-info-container">
+                <h2>Información del Programa</h2>
+                <div id="program-info-content">
+                     <p>No hay información de programación disponible para el canal seleccionado.</p>
+                </div>
+            </aside>
+        </main>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/hls.js/1.5.8/hls.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
